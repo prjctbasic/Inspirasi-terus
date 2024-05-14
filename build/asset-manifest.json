@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Inspirasi-terus/static/css/main.6abe9e41.css",
+    "main.js": "/Inspirasi-terus/static/js/main.28ce897d.js",
+    "index.html": "/Inspirasi-terus/index.html",
+    "main.6abe9e41.css.map": "/Inspirasi-terus/static/css/main.6abe9e41.css.map",
+    "main.28ce897d.js.map": "/Inspirasi-terus/static/js/main.28ce897d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6abe9e41.css",
+    "static/js/main.28ce897d.js"
+  ]
+}

@@ -1,0 +1,65 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .counter h2 {
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    display: flex;
+    align-items: center;
+  }
+  
+  .button button {
+    margin: 5px;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .button button:hover {
+    background-color: #eee;
+  }
+  
+  .button span {
+    margin: 0 10px;
+    font-size: 18px;
+  }
+  
+  input[type="number"] {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-right: 5px;
+  }
+  .tampilan {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .tampilan h2 {
+    margin-bottom: 10px;
+  }
+  
+  .user,
+  .react {
+    display: inline-block;
+    margin-right: 5px;
+  }
+  
+  .user {
+    font-weight: bold;
+  }
+  
+  .react {
+    color: #aaa;
+  }
+  
